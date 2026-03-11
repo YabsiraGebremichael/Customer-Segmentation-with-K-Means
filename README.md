@@ -64,7 +64,7 @@ The **Elbow Method** was used to determine the optimal number of clusters, and *
 ## Technologies Used
 
 * Python
-* Pandas & NumPy
+* Pandas
 * Matplotlib & Seaborn
 * Scikit-learn
 * Jupyter Notebook
